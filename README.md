@@ -13,4 +13,4 @@ Excel, SQL y Power BI
 - En total son 796 clientes de los cuales se concentra el 80% de las ventas en 393 clientes siendo casi el 50% de los clientes
 
 #Estructura
-Analisis exploratorio con Excel Analisis y busquedas con SQL Dasboard a nivel Directivo, Gerencial y Operativo (no todos los puestos y jerarquias ocupan ver la misma información)
+Analisis exploratorio con Excel Analisis y busquedas con SQL Dasboard a nivel Directivo, Gerencial y Operativo (no todos los puestos y jerarquias ocupan ver la misma información).
